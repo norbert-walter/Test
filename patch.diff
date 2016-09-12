@@ -1,0 +1,28 @@
+From 9b574f6cc022f2bcf0326fa1eb1f7863d2bc0d49 Mon Sep 17 00:00:00 2001
+From: "DCIMS\\wt" <norbert-walter@web.de>
+Date: Mon, 12 Sep 2016 14:40:44 +0200
+Subject: [PATCH] neun
+
+---
+ openweathermap.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/openweathermap.txt b/openweathermap.txt
+index c1f2ce2..43d4bf4 100644
+--- a/openweathermap.txt
++++ b/openweathermap.txt
+@@ -1,4 +1,4 @@
+-das ist jetzt richtig
++﻿das ist jetzt richtig
+ blabla
+ 1234 4567
+ hhhhhhh
+@@ -10,3 +10,5 @@ fünf
+ sechs
+ sieben raben
+ acht
++neun
++
+-- 
+2.10.0.windows.1
+
